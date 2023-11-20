@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "keyfinder_new-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/keyfinder_new-eagle-import.kicad_sym")(options "")(descr ""))
+)
