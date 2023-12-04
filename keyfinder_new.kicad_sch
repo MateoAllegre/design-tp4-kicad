@@ -2524,8 +2524,8 @@
     (property "Link" "https://www.digikey.fr/fr/products/detail/stackpole-electronics-inc/RMCF0805JT10K0/1757762" (at 132.08 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9d00b3b7-b3ca-44fe-b2c1-bce9ae5d650a))
-    (pin "2" (uuid 6feda067-250a-49c6-9d9e-6089e5ce60e5))
+    (pin "1" (uuid f1a37bee-9590-4175-8dda-8c8bcd896af9))
+    (pin "2" (uuid 8c4c5b99-e398-4c64-aaef-4078674d4dab))
     (instances
       (project "keyfinder_new"
         (path "/34783537-808a-4f5a-a322-63d622554691"
@@ -2779,7 +2779,7 @@
     (property "Value" "Conn_ARM_SWD_TagConnect_TC2030" (at 205.74 148.59 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical" (at 199.39 129.54 0)
+    (property "Footprint" "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" (at 199.39 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-CTX_1.pdf" (at 199.39 132.08 0)
@@ -2791,12 +2791,12 @@
     (property "Link" "https://www.digikey.fr/fr/products/detail/tag-connect-llc/TC2030-IDC/4571121" (at 199.39 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid 8421453d-25f9-4f6b-bf40-69a649dd2947))
     (pin "2" (uuid 38c7de25-cb90-46bc-9134-0b0684857e64))
     (pin "3" (uuid 751d0b79-e4ff-410d-af58-0ef1b9b6b144))
-    (pin "6" (uuid 85a01bf0-b687-4614-ac30-e2aa9f4ecfe4))
-    (pin "5" (uuid 1809355e-6f38-4737-b5fa-25542db6efcc))
     (pin "4" (uuid 7b0f593b-795a-4287-a536-8509bf4c9843))
-    (pin "1" (uuid 8421453d-25f9-4f6b-bf40-69a649dd2947))
+    (pin "5" (uuid 1809355e-6f38-4737-b5fa-25542db6efcc))
+    (pin "6" (uuid 85a01bf0-b687-4614-ac30-e2aa9f4ecfe4))
     (instances
       (project "keyfinder_new"
         (path "/34783537-808a-4f5a-a322-63d622554691"
@@ -2979,7 +2979,7 @@
     (property "Value" "SW_Omron_B3FS" (at 124.46 166.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP" (at 124.46 166.37 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810" (at 124.46 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf" (at 124.46 166.37 0)
@@ -2991,8 +2991,8 @@
     (property "Link" "https://www.digikey.fr/fr/products/detail/omron-electronics-inc-emc-div/B3FS-1002P/277815" (at 124.46 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid d4896505-4026-4007-a207-a63196724148))
-    (pin "1" (uuid 9f641306-9ac4-4ebc-82a8-b895a20e52ad))
+    (pin "1" (uuid 10324207-ba03-4672-9142-6845992697f1))
+    (pin "2" (uuid 999ec76c-9a60-41b3-8fb2-28e1d16017b0))
     (instances
       (project "keyfinder_new"
         (path "/34783537-808a-4f5a-a322-63d622554691"
@@ -3663,7 +3663,7 @@
     (property "Value" "SW_Push" (at 81.28 116.84 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_THT:SW_CW_GPTS203211B" (at 81.28 116.84 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810" (at 81.28 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 81.28 116.84 0)
